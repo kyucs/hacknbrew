@@ -1,0 +1,427 @@
+<svg>
+<symbol id="logo" viewBox="-1.7 -1.7 20.40 20.40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ffffff" stroke="#ffffff"><g stroke-width="0"></g><g stroke-linecap="round" stroke-linejoin="round"></g><g> <title>logo</title> <defs> </defs> <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"> <path d="M14.5,13.043 C14.242,13.043 14.002,13.112 13.79,13.225 L10.531,9.954 C10.738,9.664 10.885,9.331 10.953,8.968 L12.086,8.968 C12.287,9.544 12.84,9.96 13.5,9.96 C14.329,9.96 15,9.308 15,8.502 C15,7.696 14.329,7.044 13.5,7.044 C12.826,7.044 12.264,7.479 12.074,8.073 L10.955,8.073 C10.893,7.725 10.764,7.401 10.573,7.119 L13.863,3.817 C14.057,3.906 14.271,3.96 14.5,3.96 C15.329,3.96 16,3.308 16,2.502 C16,1.696 15.329,1.044 14.5,1.044 C13.672,1.044 13.002,1.696 13.002,2.502 C13.002,2.763 13.077,3.005 13.201,3.217 L9.945,6.486 C9.652,6.279 9.316,6.133 8.949,6.067 L8.949,4.886 C9.556,4.7 10,4.155 10,3.502 C10,2.696 9.329,2.044 8.5,2.044 C7.672,2.044 7.002,2.696 7.002,3.502 C7.002,4.157 7.447,4.705 8.06,4.889 L8.06,6.066 C7.696,6.13 7.36,6.271 7.069,6.474 L3.809,3.203 C3.927,2.994 4,2.758 4,2.503 C4,1.697 3.329,1.045 2.5,1.045 C1.672,1.045 1.002,1.697 1.002,2.503 C1.002,3.309 1.672,3.961 2.5,3.961 C2.734,3.961 2.955,3.904 3.152,3.811 L6.437,7.108 C6.241,7.393 6.107,7.721 6.044,8.075 L4.926,8.075 C4.737,7.48 4.173,7.046 3.499,7.046 C2.671,7.046 2.001,7.698 2.001,8.504 C2.001,9.31 2.671,9.962 3.499,9.962 C4.159,9.962 4.714,9.546 4.913,8.97 L6.046,8.97 C6.114,9.339 6.267,9.677 6.48,9.97 L3.226,13.236 C3.01,13.119 2.765,13.047 2.499,13.047 C1.671,13.047 1.001,13.699 1.001,14.505 C1.001,15.311 1.671,15.963 2.499,15.963 C3.328,15.963 3.999,15.311 3.999,14.505 C3.999,14.279 3.942,14.068 3.849,13.879 L7.124,10.59 C7.401,10.774 7.718,10.899 8.059,10.959 L8.059,12.118 C7.447,12.302 7.001,12.849 7.001,13.505 C7.001,14.311 7.671,14.963 8.499,14.963 C9.328,14.963 9.999,14.311 9.999,13.505 C9.999,12.853 9.556,12.307 8.948,12.121 L8.948,10.958 C9.292,10.896 9.611,10.768 9.89,10.581 L13.159,13.862 C13.06,14.056 13.001,14.273 13.001,14.505 C13.001,15.311 13.671,15.963 14.499,15.963 C15.328,15.963 15.999,15.311 15.999,14.505 C15.999,13.699 15.329,13.043 14.5,13.043 L14.5,13.043 Z" fill="#009dff"> </path> </g> </g></symbol>
+
+                    <symbol id="map"
+                        viewBox="0 0 1045 336"
+                        fill="none"
+                        class="w-[65.3125rem]"
+                        style="opacity: 1"
+                    >
+                        <g filter="url(#:R3dja:-a)">
+                            <path
+                                stroke="url(#:R3dja:-b)"
+                                stroke-opacity=".3"
+                                stroke-width="2"
+                                d="M25.326 215.682c23.681-2.68 397.675-23.446 427.888-23.781 12.288-.136 47.399-.383 87.375-.741m0 0c58.321-.522 126.995-1.279 150.25-2.273 31.357-1.34 242.252-12.616 343.781-18.087m-494.031 20.36c13.856 16.898 79.773 58.464 91.456 67.729 12.249 9.713 21.231 31.149 54.711 61.963M540.589 191.16c-.671-.817-1.219-1.577-1.634-2.273-7.186-12.058-39.468-98.36-54.711-140.004M25.326 213.002c75.126-20.542 228.479-62.298 240.891-64.977 15.515-3.35 99.623-20.767 123.304-21.102 18.945-.267 90.096-.111 123.304 0m16.331 39.188-150.268-.784m0 0-170.648-.891m170.648.891c1.301-10.308 3.122-31.548 0-34.049m66.166 60.958 48.178 43.542m-138.818-38.853 37.562 44.882M262.14 201.615l31.03 46.221m-128.203-40.862 20.414 46.891m-114.32-41.532-2.944 49.033m0 0-3.59 59.821m3.59-59.821 520.655-31.282M68.118 261.366 9 264.918m624.684-5.694-340.514 23.78c-5.988.224-18.291 1.005-19.598 2.345-.878.901 5.084 13.256 11.236 25.261m0 0L130.67 321.187m154.138-10.577a946.086 946.086 0 0 0 3.625 6.998m0 0a947.39 947.39 0 0 0 4.737 8.938m-4.737-8.938 177.852-13.168m-31.846-30.814 50.628 49.906M338.081 165.441c.272 1.228.653 4.555 0 8.039-.229 1.224.879 3.669 2.637 6.597m12.062 16.514c-3.355-4.056-8.817-11.108-12.062-16.514m0 0-206.782 9.815c-4.627.223-15.188.201-20.415-1.675m-83.293 1.675 74.309-3.015m334.801-60.288c-5.988-24.898-16.985-75.495-13.065-78.71 4.899-4.02 10.615-8.374 0-11.054-8.493-2.143-93.362-17.417-134.736-24.785m199.242 56.604c-18.781.559-59.12 1.34-70.226 0-13.881-1.674-37.562-8.038-50.627-8.038-3.737 0-35.197.142-79.218.351M431.169 90.75h-26.131m0 0-44.095 10.718m44.095-10.718-44.095-12.727c-22.045.198-49.111.414-77.997.606m77.997 22.839c1.361 2.456 3.266 7.972 0 10.383-3.266 2.412-13.882 11.723-18.781 16.077m18.781-26.46h70.226m-70.226 0H272.07m0 0H19.613m252.457 0c2.735-5.052 6.909-14.01 10.876-22.84m-10.876 22.84c-1.165 2.153-2.069 3.597-2.584 4.019-3.266 2.68-35.929 15.073-39.196 18.757-2.613 2.947-16.876 24.674-23.681 35.168H26.145m264.563-98.455c-79.135.376-198.862.965-271.096 1.324m271.096-1.324a1182.916 1182.916 0 0 1-7.762 17.672m0 0c-101.296.675-224.987 1.061-233.12-.606-10.452-2.144-28.308-5.36-35.93-6.7m202.513-9.712-78.391 97.801m19.596-71.341-44.647 43.207m0 0-59.875 57.944m59.875-57.944h79.76m-79.76 0H69.1m-20.908 27.8-22.047 20.766m76.758-78.376L69.1 131.278m0 0-31.523 27.8m31.523-27.8H26.145M213.14 66.635h37.971m0 0h37.971m-37.971 0-22.456 34.833c-11.159 8.82-33.969 27.13-35.929 29.81m31.847 0h-31.847m0 0c-1.905 5.917-7.186 18.086-13.065 19.426-5.88 1.34-25.859.558-35.113 0m84.107-21.771c9.527.782 30.867 1.876 40.013 0 11.432-2.344 9.799-8.373 20.414-12.393 10.616-4.019 26.131-7.033 28.581-15.072 1.96-6.43 6.26-18.31 8.166-23.445m15.515-17.417c1.959-2.144-191.352-31.261-288.253-45.552m155.152 45.887c4.083-3.35 11.596-10.651 8.983-13.063m-73.493-2.68c1.906.335 6.533 1.541 9.799 3.685 4.083 2.68-4.899 8.373-9.799 12.393L125.77 78.357m303.767 9.044c28.853 0 88.191.335 94.723 1.675 3.752.769 9.573 1.326 16.432 1.704m495.568 18.727c-13.89-.67-59.614-13.063-72.679-15.742-13.066-2.68-378.894-2.345-396.042-2.345-9.269 0-18.777-.196-26.847-.64m-48.278-22.136 31.846 1.34 16.432 20.796m0 0-3.775 18.727m-30.621 0h30.621m0 0h30.622m-59.611 4.689h-71.042m62.877-21.101H431.17m-40.013-29.81c1.906-4.13 4.573-12.727 0-14.067h-17.148L147.816 14.719m148.618 11.723L194.361 9.025m59.608 21.771c29.941-2.12 90.314-6.966 92.273-9.378 1.96-2.411-22.047-6.81-34.296-8.708m-18.777 151.726 4.083-12.057m-30.213-4.354c-7.349-2.345-21.231 0-20.415-4.69.654-3.751 13.882-4.912 20.415-5.024m397.675 160.436-33.48 2.009 16.332 14.068m33.48 0h18.781l5.716 4.689M556.928 21.753c17.965 5.024 35.113 22.776 48.995 35.838 11.106 10.45 22.048 26.684 26.131 33.494 17.964 31.261 54.221 94.72 55.527 98.472 1.633 4.689 114.321 53.255 138.819 66.317 7.409 3.951 18.941 11.855 31.596 21.119M556.928 21.753c-14.372-4.02-32.119-8.597-39.196-10.383m39.196 10.383c20.959 1.005 65.327 4.421 75.126 10.048 12.248 7.034 15.515 15.742 31.03 20.766 15.515 5.024 23.681 1.005 34.296 6.699 8.493 4.555 26.947 23.11 35.113 31.82 10.888 19.202 35.766 58.814 48.178 63.637 15.515 6.029 71.859 15.742 84.108 23.446 12.249 7.703 30.214 16.747 35.93 25.455 5.716 8.709 53.894 65.313 26.947 69.332-21.558 3.216-55.422 4.031-69.66 4.037m58.228 45.199c-13.544-11.041-37.406-29.959-58.228-45.199m28.827 22.423c-3.266-2.456-7.839-8.708 0-14.067s17.421-9.378 21.231-10.718m26.131-5.024c2.45.781 11.759 1.876 29.397 0 6.193-.659 12.965-1.476 19.974-2.303m0 0c17.944-2.118 37.434-4.302 52.704-4.061m-52.704 4.061 30.654 29.768m-160.05-94.788 182.1 2.68m-199.248-19.092c10.616 11.612 32.663 37.112 35.93 46.222 3.266 9.11 22.047 27.269 31.03 35.21m-101.256-22.817 38.379-3.35m0 0 8.166 15.072m-8.166-15.072c-5.172-5.359-17.802-17.283-26.947-22.106-11.432-6.029-29.397-14.067-40.013-14.067-4.567 0-11.855 0-19.652.133m0 0c-10.327.177-21.547.587-28.526 1.542m28.526-1.542 38.434 13.934m-46.542-33.159-26.947-34.833m141.268 4.019c-5.444-.781-20.251-2.679-35.929-4.019-15.679-1.34-113.777-.558-160.867 0l-21.231-6.029m218.027 10.048c2.994 3.015 7.186 9.981 0 13.733m0-13.733c-11.432-8.038-26.947-20.766-23.681-27.13 3.267-6.364 33.48-20.766 32.664-26.795-.817-6.029-32.664-19.761-32.664-26.125m0 0c0-5.091 96.901-35.615 145.352-50.24m-145.352 50.24c-16.331-8.82-48.015-27.264-44.095-30.48m0 0c3.92-3.215 79.481-19.426 116.771-27.13M792.92 44.529c-11.16-.557-36.909-1.74-50.628-2.009-4.607-.09-16.756.014-32.316.213m32.316 18.879c-10.321-8.913-25.341-14.713-32.316-18.88m0 0c-3.51-2.096-4.984-3.778-2.797-5.236 5.226-3.483 77.303-17.305 112.688-23.78M709.976 42.731c-42.364.543-110.012 1.797-119.568 1.797-10.452 0-74.581 2.902-105.339 4.354h-58.794m111.872 136.989c21.231 0 25.314-.335 28.58-3.349 3.267-3.014 0-11.388 0-17.752 0-5.091-8.166-15.295-12.248-19.761m0 0h-33.48m33.48 0c-2.45-5.136-5.88-16.68 0-21.771 5.879-5.091-4.628-11.499-10.616-14.067m10.616 35.838h88.19m0 0v-21.771h8.166m-361.75 76.366-12.249-16.747m129.023-81.39v-7.034h26.131m-35.117 21.102v-9.714h14.699v9.714h-14.699Z"
+                                shape-rendering="crispEdges"
+                            ></path>
+                        </g>
+                        <defs>
+                            <filter
+                                id=":R3dja:-a"
+                                width="1043.36"
+                                height="334.98"
+                                x=".94"
+                                y=".04"
+                                color-interpolation-filters="sRGB"
+                                filterUnits="userSpaceOnUse"
+                            >
+                                <feFlood
+                                    flood-opacity="0"
+                                    result="BackgroundImageFix"
+                                ></feFlood>
+                                <feColorMatrix
+                                    in="SourceAlpha"
+                                    result="hardAlpha"
+                                    values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                                ></feColorMatrix>
+                                <feOffset></feOffset>
+                                <feGaussianBlur
+                                    stdDeviation="4"
+                                ></feGaussianBlur>
+                                <feComposite
+                                    in2="hardAlpha"
+                                    operator="out"
+                                ></feComposite>
+                                <feColorMatrix
+                                    values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.08 0"
+                                ></feColorMatrix>
+                                <feBlend
+                                    in2="BackgroundImageFix"
+                                    result="effect1_dropShadow_0_2021"
+                                ></feBlend>
+                                <feBlend
+                                    in="SourceGraphic"
+                                    in2="effect1_dropShadow_0_2021"
+                                    result="shape"
+                                ></feBlend>
+                            </filter>
+                            <filter
+                                id=":R3dja:-c"
+                                width="200.23"
+                                height="85.75"
+                                x="424.312"
+                                y="152.25"
+                                color-interpolation-filters="sRGB"
+                                filterUnits="userSpaceOnUse"
+                            >
+                                <feFlood
+                                    flood-opacity="0"
+                                    result="BackgroundImageFix"
+                                ></feFlood>
+                                <feGaussianBlur
+                                    in="BackgroundImageFix"
+                                    stdDeviation="2"
+                                ></feGaussianBlur>
+                                <feComposite
+                                    in2="SourceAlpha"
+                                    operator="in"
+                                    result="effect1_backgroundBlur_0_2021"
+                                ></feComposite>
+                                <feColorMatrix
+                                    in="SourceAlpha"
+                                    result="hardAlpha"
+                                    values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                                ></feColorMatrix>
+                                <feOffset dy="1"></feOffset>
+                                <feComposite
+                                    in2="hardAlpha"
+                                    operator="out"
+                                ></feComposite>
+                                <feColorMatrix
+                                    values="0 0 0 0 0.329412 0 0 0 0 0.823529 0 0 0 0 1 0 0 0 0.24 0"
+                                ></feColorMatrix>
+                                <feBlend
+                                    in2="effect1_backgroundBlur_0_2021"
+                                    result="effect2_dropShadow_0_2021"
+                                ></feBlend>
+                                <feColorMatrix
+                                    in="SourceAlpha"
+                                    result="hardAlpha"
+                                    values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                                ></feColorMatrix>
+                                <feMorphology
+                                    in="SourceAlpha"
+                                    operator="dilate"
+                                    radius="1"
+                                    result="effect3_dropShadow_0_2021"
+                                ></feMorphology>
+                                <feOffset></feOffset>
+                                <feComposite
+                                    in2="hardAlpha"
+                                    operator="out"
+                                ></feComposite>
+                                <feColorMatrix
+                                    values="0 0 0 0 0.254902 0 0 0 0 0.74902 0 0 0 0 0.984314 0 0 0 0.12 0"
+                                ></feColorMatrix>
+                                <feBlend
+                                    in2="effect2_dropShadow_0_2021"
+                                    result="effect3_dropShadow_0_2021"
+                                ></feBlend>
+                                <feColorMatrix
+                                    in="SourceAlpha"
+                                    result="hardAlpha"
+                                    values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                                ></feColorMatrix>
+                                <feOffset dy="6"></feOffset>
+                                <feGaussianBlur
+                                    stdDeviation="6"
+                                ></feGaussianBlur>
+                                <feComposite
+                                    in2="hardAlpha"
+                                    operator="out"
+                                ></feComposite>
+                                <feColorMatrix
+                                    values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.47 0"
+                                ></feColorMatrix>
+                                <feBlend
+                                    in2="effect3_dropShadow_0_2021"
+                                    result="effect4_dropShadow_0_2021"
+                                ></feBlend>
+                                <feBlend
+                                    in="SourceGraphic"
+                                    in2="effect4_dropShadow_0_2021"
+                                    result="shape"
+                                ></feBlend>
+                            </filter>
+                            <filter
+                                id=":R3dja:-d"
+                                width="127.152"
+                                height="49.75"
+                                x="460.852"
+                                y="162.25"
+                                color-interpolation-filters="sRGB"
+                                filterUnits="userSpaceOnUse"
+                            >
+                                <feFlood
+                                    flood-opacity="0"
+                                    result="BackgroundImageFix"
+                                ></feFlood>
+                                <feGaussianBlur
+                                    in="BackgroundImageFix"
+                                    stdDeviation="2"
+                                ></feGaussianBlur>
+                                <feComposite
+                                    in2="SourceAlpha"
+                                    operator="in"
+                                    result="effect1_backgroundBlur_0_2021"
+                                ></feComposite>
+                                <feColorMatrix
+                                    in="SourceAlpha"
+                                    result="hardAlpha"
+                                    values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                                ></feColorMatrix>
+                                <feOffset dy="1"></feOffset>
+                                <feComposite
+                                    in2="hardAlpha"
+                                    operator="out"
+                                ></feComposite>
+                                <feColorMatrix
+                                    values="0 0 0 0 0.329412 0 0 0 0 0.823529 0 0 0 0 1 0 0 0 0.24 0"
+                                ></feColorMatrix>
+                                <feBlend
+                                    in2="effect1_backgroundBlur_0_2021"
+                                    result="effect2_dropShadow_0_2021"
+                                ></feBlend>
+                                <feColorMatrix
+                                    in="SourceAlpha"
+                                    result="hardAlpha"
+                                    values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                                ></feColorMatrix>
+                                <feMorphology
+                                    in="SourceAlpha"
+                                    operator="dilate"
+                                    radius="1"
+                                    result="effect3_dropShadow_0_2021"
+                                ></feMorphology>
+                                <feOffset></feOffset>
+                                <feComposite
+                                    in2="hardAlpha"
+                                    operator="out"
+                                ></feComposite>
+                                <feColorMatrix
+                                    values="0 0 0 0 0.254902 0 0 0 0 0.74902 0 0 0 0 0.984314 0 0 0 0.12 0"
+                                ></feColorMatrix>
+                                <feBlend
+                                    in2="effect2_dropShadow_0_2021"
+                                    result="effect3_dropShadow_0_2021"
+                                ></feBlend>
+                                <feBlend
+                                    in="SourceGraphic"
+                                    in2="effect3_dropShadow_0_2021"
+                                    result="shape"
+                                ></feBlend>
+                            </filter>
+                            <filter
+                                id=":R3dja:-e"
+                                width="71.5"
+                                height="30.25"
+                                x="488.68"
+                                y="169"
+                                color-interpolation-filters="sRGB"
+                                filterUnits="userSpaceOnUse"
+                            >
+                                <feFlood
+                                    flood-opacity="0"
+                                    result="BackgroundImageFix"
+                                ></feFlood>
+                                <feGaussianBlur
+                                    in="BackgroundImageFix"
+                                    stdDeviation="2"
+                                ></feGaussianBlur>
+                                <feComposite
+                                    in2="SourceAlpha"
+                                    operator="in"
+                                    result="effect1_backgroundBlur_0_2021"
+                                ></feComposite>
+                                <feColorMatrix
+                                    in="SourceAlpha"
+                                    result="hardAlpha"
+                                    values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                                ></feColorMatrix>
+                                <feOffset dy="1"></feOffset>
+                                <feComposite
+                                    in2="hardAlpha"
+                                    operator="out"
+                                ></feComposite>
+                                <feColorMatrix
+                                    values="0 0 0 0 0.329412 0 0 0 0 0.823529 0 0 0 0 1 0 0 0 0.24 0"
+                                ></feColorMatrix>
+                                <feBlend
+                                    in2="effect1_backgroundBlur_0_2021"
+                                    result="effect2_dropShadow_0_2021"
+                                ></feBlend>
+                                <feColorMatrix
+                                    in="SourceAlpha"
+                                    result="hardAlpha"
+                                    values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                                ></feColorMatrix>
+                                <feMorphology
+                                    in="SourceAlpha"
+                                    operator="dilate"
+                                    radius="1"
+                                    result="effect3_dropShadow_0_2021"
+                                ></feMorphology>
+                                <feOffset></feOffset>
+                                <feComposite
+                                    in2="hardAlpha"
+                                    operator="out"
+                                ></feComposite>
+                                <feColorMatrix
+                                    values="0 0 0 0 0.254902 0 0 0 0 0.74902 0 0 0 0 0.984314 0 0 0 0.12 0"
+                                ></feColorMatrix>
+                                <feBlend
+                                    in2="effect2_dropShadow_0_2021"
+                                    result="effect3_dropShadow_0_2021"
+                                ></feBlend>
+                                <feBlend
+                                    in="SourceGraphic"
+                                    in2="effect3_dropShadow_0_2021"
+                                    result="shape"
+                                ></feBlend>
+                            </filter>
+                            <radialGradient
+                                id=":R3dja:-b"
+                                cx="0"
+                                cy="0"
+                                r="1"
+                                gradientTransform="matrix(2.00007 145.54626 -424.00197 5.82657 511.932 181)"
+                                gradientUnits="userSpaceOnUse"
+                            >
+                                <stop
+                                    stop-color="#38BDF8"
+                                    stop-opacity=".76"
+                                ></stop>
+                                <stop
+                                    offset=".479"
+                                    stop-color="#fff"
+                                    stop-opacity=".22"
+                                ></stop>
+                                <stop
+                                    offset="1"
+                                    stop-color="#fff"
+                                    stop-opacity="0"
+                                ></stop>
+                            </radialGradient>
+                        </defs>
+                    </symbol>
+                    <symbol id="point"
+                        viewBox="0 0 1045 336"
+                        class="absolute inset-0 z-10 h-full w-full"
+                        style="opacity: 1"
+                    >
+                        <g filter="url(#:R3dja:-f)">
+                            <ellipse
+                                cx="524.43"
+                                cy="183.125"
+                                fill="#38BDF8"
+                                rx="1.5"
+                                ry=".5"
+                            ></ellipse>
+                        </g>
+                        <g filter="url(#:R3dja:-g)">
+                            <path
+                                fill="url(#:R3dja:-h)"
+                                d="M524 31h1v152h-1z"
+                            ></path>
+                        </g>
+                        <defs>
+                            <filter
+                                id=":R3dja:-f"
+                                width="17"
+                                height="15"
+                                x="515.93"
+                                y="175.625"
+                                color-interpolation-filters="sRGB"
+                                filterUnits="userSpaceOnUse"
+                            >
+                                <feFlood
+                                    flood-opacity="0"
+                                    result="BackgroundImageFix"
+                                ></feFlood>
+                                <feColorMatrix
+                                    in="SourceAlpha"
+                                    result="hardAlpha"
+                                    values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                                ></feColorMatrix>
+                                <feMorphology
+                                    in="SourceAlpha"
+                                    operator="dilate"
+                                    radius="2"
+                                    result="effect1_dropShadow_0_2021"
+                                ></feMorphology>
+                                <feOffset></feOffset>
+                                <feGaussianBlur
+                                    stdDeviation="2.5"
+                                ></feGaussianBlur>
+                                <feComposite
+                                    in2="hardAlpha"
+                                    operator="out"
+                                ></feComposite>
+                                <feColorMatrix
+                                    values="0 0 0 0 0.219608 0 0 0 0 0.741176 0 0 0 0 0.972549 0 0 0 0.77 0"
+                                ></feColorMatrix>
+                                <feBlend
+                                    in2="BackgroundImageFix"
+                                    result="effect1_dropShadow_0_2021"
+                                ></feBlend>
+                                <feBlend
+                                    in="SourceGraphic"
+                                    in2="effect1_dropShadow_0_2021"
+                                    result="shape"
+                                ></feBlend>
+                            </filter>
+                            <filter
+                                id=":R3dja:-g"
+                                width="11"
+                                height="162"
+                                x="519"
+                                y="26"
+                                color-interpolation-filters="sRGB"
+                                filterUnits="userSpaceOnUse"
+                            >
+                                <feFlood
+                                    flood-opacity="0"
+                                    result="BackgroundImageFix"
+                                ></feFlood>
+                                <feColorMatrix
+                                    in="SourceAlpha"
+                                    result="hardAlpha"
+                                    values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                                ></feColorMatrix>
+                                <feOffset></feOffset>
+                                <feGaussianBlur
+                                    stdDeviation="2.5"
+                                ></feGaussianBlur>
+                                <feComposite
+                                    in2="hardAlpha"
+                                    operator="out"
+                                ></feComposite>
+                                <feColorMatrix
+                                    values="0 0 0 0 0.219608 0 0 0 0 0.741176 0 0 0 0 0.972549 0 0 0 1 0"
+                                ></feColorMatrix>
+                                <feBlend
+                                    in2="BackgroundImageFix"
+                                    result="effect1_dropShadow_0_2021"
+                                ></feBlend>
+                                <feBlend
+                                    in="SourceGraphic"
+                                    in2="effect1_dropShadow_0_2021"
+                                    result="shape"
+                                ></feBlend>
+                            </filter>
+                            <linearGradient
+                                id=":R3dja:-h"
+                                x1="524.5"
+                                x2="524.5"
+                                y1="31"
+                                y2="183"
+                                gradientUnits="userSpaceOnUse"
+                            >
+                                <stop stop-color="#23323B"></stop>
+                                <stop offset="1" stop-color="#38BDF8"></stop>
+                            </linearGradient>
+                        </defs>
+                    </symbol>
+
+</svg>
