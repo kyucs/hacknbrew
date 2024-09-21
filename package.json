@@ -1,15 +1,9 @@
 {
-    "name": "coffeenight",
-    "version": "1.0.0",
-    "description": "",
     "scripts": {
         "dev": "tailwindcss -i input.css -o public/style.css --watch",
         "build:css": "tailwindcss -i input.css -o public/style.css",
         "build": "pnpm build:css && vite build"
     },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
     "devDependencies": {
         "tailwindcss": "^3.4.12"
     }
