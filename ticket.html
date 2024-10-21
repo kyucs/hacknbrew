@@ -85,6 +85,8 @@
 			document.getElementById('uuid').innerText = code
 			if (window.confirm('Download Event Ticket?')) {
 				window.print()
+			} else {
+				alert('You'll need to reload page to download ticket.')
 			}
 		} else {
 			alert('Invitation Code: Not Found! Contact us via WhatsApp.')
