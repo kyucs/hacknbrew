@@ -1,0 +1,97 @@
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Hack &amp; Brew 2024 | KYUCSA Live Event</title>
+	<meta name="description"
+		content="The first official in-person KYUCSA event — come hang out with the community. Don't miss out!">
+
+	<meta property="og:title" content="Hack &amp; Brew 2024 | KYUCSA Live Event">
+	<meta property="og:site_name" content="Hack &amp; Brew 2024 | KYUCSA Live Event">
+	<meta property="og:locale" content="en-US">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://kyucs.github.io/hacknbrew">
+	<meta property="og:image" content="https://kyucs.github.io/hacknbrew/public/event.png">
+
+	<link rel="shortcut icon" href="https://kyucs.github.io/hacknbrew/public/logo.svg" type="image/svg+xml" sizes="any">
+	<link rel="stylesheet" href="public/style.css">
+</head>
+
+<body>
+
+	<div class="relative flex min-h-screen flex-col justify-center overflow-hidden bg-gray-50 py-6 sm:py-12">
+		<img src="public/beams.jpg" alt=""
+			class="absolute top-1/2 left-1/2 max-w-none -translate-x-1/2 -translate-y-1/2" width="1308" />
+		<div
+			class="absolute inset-0 bg-[url(public/grid.svg)] bg-center [mask-image:linear-gradient(180deg,white,rgba(255,255,255,0))]">
+		</div>
+		<div class="relative px-6 pt-10 pb-8 rounded-lg">
+			<div class="mx-auto w-full max-w-sm rounded-2xl">
+				<div class="rounded-2xl bg-[rgba(9,9,11,0.97)] bg-[image:radial-gradient(221.02%_101.62%_at_50%_0%,rgba(255,255,255,0.1)_0%,rgba(255,255,255,0)_78.73%)] shadow-[0_2px_20px_rgba(0,0,0,0.5),0_20px_28px_rgba(0,0,0,0.4),inset_0_0.5px_0_rgba(153,253,255,0.1),inset_0_0_0_1px_rgba(255,255,255,0.06)]"
+					style="opacity: 1; transform: none">
+					<div
+						class="relative flex flex-col items-center overflow-hidden border-b border-dashed border-white/10 pb-14">
+						<div class="mt-4 h-1.5 w-11 rounded bg-black shadow-[0_0.5px_0_rgb(255_255_255/0.075)]">
+						</div>
+						<div class="w-full flex items-center justify-center">
+							<div class="ml-6 px-6 [mask-image:radial-gradient(red, white_75%,transparent)]">
+								<div class="brand">
+									<svg class="shrink-0 mx-auto my-6 h-20 w-20 bg-transparent">
+										<use href="/public/icons.svg#logo"></use>
+									</svg>
+								</div>
+							</div>
+							<div class="flex-grow flex flex-col my-10">
+								<span class="text-xl font-extrabold uppercase text-white">Hack &amp; Brew</span>
+								<span class="text-md font-medium text-gray-400">You're Invited!</span>
+							</div>
+						</div>
+						<div class="font-display relative text-center font-semibold uppercase tracking-[0.2em]">
+							<span class="text-xs text-zinc-500">Invitation code</span>
+							<h1 class="py-12 text-blue-400 text-5xl font-extrabold font-mono">
+								#<span id="uuid">0000</span>
+							</h1>
+							<time datetime="2024-10-18T18:00+03:00"
+								class="flex justify-center items-center text-[0.8125rem]/6 text-zinc-300">
+								October 25, 2024
+								<svg viewBox="0 0 2 2"
+									class="mx-3 h-[0.1875rem] w-[0.1875rem] flex-none fill-zinc-300/30">
+									<circle cx="1" cy="1" r="1"></circle>
+								</svg>
+								6PM
+							</time>
+							<div class="text-2xs mt-1 leading-6 text-zinc-500">
+								Kyambogo University
+							</div>
+						</div>
+					</div>
+					<div
+						class="overflow-hidden p-4 font-mono text-[.6875rem]/4 font-bold text-zinc-500 grid grid-cols-1">
+						<div class="text-center">
+							<div>See You There!</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<script>
+		const [, query] = window.location.href.split('?')
+		const params = new URLSearchParams(query || '')
+		const code = params.get('code') 
+		if (code) {
+			document.getElementById('uuid').innerText = code
+			if (window.confirm('Download Event Ticket?')) {
+				window.print()
+			}
+		} else {
+			alert('Invitation Code: Not Found! Contact us via WhatsApp.')
+		}
+	</script>
+
+
+</body>
+
+</html>
