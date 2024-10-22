@@ -2,9 +2,14 @@
     "scripts": {
         "dev": "tailwindcss -i input.css -o public/style.css --watch",
         "build:css": "tailwindcss -i input.css -o public/style.css",
-        "build": "pnpm build:css && vite build"
+        "build": "pnpm build:css && vite build",
+        "sendtickets": "node ticket-mailer/index.mjs"
     },
     "devDependencies": {
         "tailwindcss": "^3.4.12"
+    },
+    "dependencies": {
+        "dotenv": "^16.4.5",
+        "nodemailer": "^6.9.15"
     }
 }
